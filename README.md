@@ -1,4 +1,4 @@
-# joke-api
+# joke-app
 Created with CodeSandbox
 
 Live site: https://joke-app-jboundless.vercel.app/
