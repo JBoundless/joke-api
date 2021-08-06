@@ -9,7 +9,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Joke telling bot web app](https://www.codementor.io/projects/web/joke-telling-bot-web-app-cjd2eyrfak)
 
 ## Tech/framework used
-Built with ___
+Built with React
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
