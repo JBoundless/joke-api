@@ -13,6 +13,8 @@ Built with React
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
+![Screen Shot 2021-08-06 at 9 11 40 AM](https://user-images.githubusercontent.com/39219944/128540485-4aaa94c2-a66d-417b-87e7-80dee9dd72e4.png)
+
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
